@@ -1,0 +1,46 @@
+p
+{
+  color: #4286f4;
+  font-size: 25px;
+}
+li:hover
+{
+  color: orange;
+  font-size: 25px;
+}
+img
+{
+  width: 50%; height: 500px;
+}
+img:hover
+{
+  width: 20%
+}
+a
+{
+  color: #4286f4;
+  font-size: 50px;
+}
+.ggg
+{
+  color:red;
+}
+.gg
+{
+  color:blue;
+}
+.g
+{
+  color:black;
+}
+#start
+{
+  color:#4286f4;
+}
+body
+{
+  background-color: purple;
+}
+@media (min-width:400px) and (max-width:800px){
+  body {background-color: red; }
+  }
